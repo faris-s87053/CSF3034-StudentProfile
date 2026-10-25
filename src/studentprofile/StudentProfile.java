@@ -15,7 +15,12 @@ public class StudentProfile {
 
         // Display the student's programme
         System.out.println("Programme: Bachelor of Computer Science");
+        
+        // Display the Student's semester
+        System.out.println("Semester: Semester 1");
+        
+        // Display Student's Favourite Language
+        System.out.println("Favourite Language: Java");
 
     } 
-
 } 
